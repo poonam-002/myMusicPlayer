@@ -3,8 +3,6 @@ var numberOfSongs = document.querySelectorAll(".circle").length;
 for(var i=0 ; i<numberOfSongs ; i++){
     document.querySelectorAll("button")[i].addEventListener("click",function(){
       var buttoninnerHTML = this.innerHTML;
-console.log(buttoninnerHTML);
-
 
 switch(buttoninnerHTML){
   
