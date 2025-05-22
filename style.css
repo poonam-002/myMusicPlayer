@@ -59,26 +59,26 @@ body{
 }
 
 .a{
-    background-image: url(./images/Arijit.jpg);
+    background-image: url(Arijit.jpg);
     background-size: cover;
 }
 
 .b{
-    background-image: url(./images/armaann.jpg);
+    background-image: url(armaann.jpg);
     background-size: cover;
 }
 
 .c{
-    background-image: url(./images/palakM.jpg);
+    background-image: url(palakM.jpg);
     background-size: cover;
 }
 
 .d{
-    background-image: url(./images/darshanR.jpg);
+    background-image: url(darshanR.jpg);
     background-size: cover;
 }
 
 .e{
-    background-image: url(./images/shreyaG.jpg);
+    background-image: url(shreyaG.jpg);
     background-size: cover;
 }
