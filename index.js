@@ -2,7 +2,8 @@ var numberOfSongs = document.querySelectorAll(".circle").length;
 
 for(var i=0 ; i<numberOfSongs ; i++){
     document.querySelectorAll("button")[i].addEventListener("click",function(){
-      var buttoninnerHTML = this.innerHTML;
+    });
+var buttoninnerHTML = this.innerHTML;
 
 switch(buttoninnerHTML){
   
@@ -36,7 +37,6 @@ switch(buttoninnerHTML){
   
 }
 
-    })
 
   document.querySelectorAll("h2")[i].addEventListener("mousemove",function(){
 
